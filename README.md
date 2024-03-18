@@ -4,14 +4,7 @@
 >
 > **The service is now deployed under a free version of glitch, so it will down if too many requests in the same time**
 >
-> Update at 2023-04-28: [CountAPI](https://countapi.xyz/) service is DOWN, looking for another alternative for now, but it takes time, you should condider using [hits](https://github.com/dwyl/hits) as alternative (more stable), see [issue #32](https://github.com/jwenjian/visitor-badge/issues/32) 
-
-
-You can:
-
-1. fork this project and deploy under your glitch account and let it working for yourself, it should be enough.
-2. use [hits](https://github.com/dwyl/hits) / [visitor-badge@plantree](https://plantree.github.io/project-docs/visitor-badge/introduction.html) as alternative solution
-3. consider a donation :-)
+> Update at 2023-04-28: [CountAPI](https://countapi.xyz/) service is DOWN, looking for another alternative for now, but it takes time, you should consider using [hits](https://github.com/dwyl/hits) as alternative (more stable), see [issue #32](https://github.com/jwenjian/visitor-badge/issues/32)
 
 ---
 
@@ -78,14 +71,14 @@ If you deployed forked project to your stable server and want to provide a free,
 
 Other public services:
 
--  https://visitor-badge.deta.dev/ (By [@Amresh Prasad Sinha](https://github.com/AmreshSinha))
--  [https://visitor-badge-reloaded.herokuapp.com](https://github.com/Nathan13888/VisitorBadgeReloaded)
 -  https://visitor-badge.laobi.icu 
--  https://page-views.glitch.me
+-  ~~https://visitor-badge.deta.dev/ (By [@Amresh Prasad Sinha](https://github.com/AmreshSinha))~~ (NO LONGER AVAILABLE)
+-  ~~https://page-views.glitch.me~~ (NOT WOKRING)
 
 Other implementations:
 
 > You can implement in other languages, if you has, please let me know and I will update this list.
 
 - NodeJS: [Lete114/visitor-badge](https://github.com/Lete114/visitor-badge)
+- Go: [Nathan13888/VisitorBadgeReloaded](https://github.com/Nathan13888/VisitorBadgeReloaded)
 
